@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mussarela">Mussarela</string>
+    <string name="calabresa">Calabresa</string>
+    <string name="portuguesa">Portuguesa</string>
+    <string name="borda">Borda Recheada</string>
+    <string name="calcular">Calcular</string>
+
+    <string-array name="pgto">
+        <item>Cartão</item>
+        <item>Cheque</item>
+        <item>Dinheiro</item>
+    </string-array>
+
+</resources>
